@@ -1,7 +1,7 @@
 """
 Author: Rodrigo Silva Ferreira
 Talk: Signal Processing in Electrochemistry with Python: Applications to the US Opioids Crisis
-Date: 28JUL2024 | Event: PyOhio 2024 | Location: Cleveland, OH
+Date: 12APR2025 | Event: PyTexas 2025 | Location: Austin, TX
 Purpose: Demonstrate how Fourier Transform can be helpful to analyze CV signals by identifying distinctive chemical signatures through the harmonics.
 Method: Plot CV data of Original, Simulated Interfering Substance, and Combined Signal. Then, perform Fourier Transform, highlighting different harmonics.
 Expectation: CV plots for Original, Interfering Substance, and Combined Signal, along with the respective Fourier Transform with highlighted harmonics.
