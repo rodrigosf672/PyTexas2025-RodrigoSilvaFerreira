@@ -1,7 +1,7 @@
 """
 Author: Rodrigo Silva Ferreira
 Talk: Signal Processing in Electrochemistry with Python: Applications to the US Opioids Crisis
-Date: 28JUL2024 | Event: PyOhio 2024 | Location: Cleveland, OH
+Date: 12APR2025 | Event: PyTexas 2025 | Location: Austin, TX
 Purpose: Demonstrate how the Savitzky-Golay Filter can be helpful to optimize CV signals, with no pre-set parameters.
 Method: Use hyperopt to find the best parameters, then plot CV data.
 Expectation: Four plots containing original CV data, noisy data, and filtered data with the best combinations of window sizes and polynomial orders.
