@@ -1,7 +1,7 @@
 """
 Author: Rodrigo Silva Ferreira
 Talk: Signal Processing in Electrochemistry with Python: Applications to the US Opioids Crisis
-Date: 28JUL2024 | Event: PyOhio 2024 | Location: Cleveland, OH
+Date: 12APR2025 | Event: PyTexas 2025 | Location: Austin, TX
 Purpose: Compare results between Script01 and Script02, to determine the impact of using HyperOpt on selecting parameters for SavGol Filter.
 Expectation: Unsure... pure curiosity! Does using HyperOpt help achieve better results? If not, are differences statistically significant?
 Reference for CV Data: Copley, G.; Gibson, E. Cyclic Voltammetry of a Cobaloxime Catalyst raw data. Newcastle University: 2019 (licensed under CC BY 4.0).
